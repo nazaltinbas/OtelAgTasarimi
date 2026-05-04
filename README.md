@@ -2,7 +2,7 @@ Cisco Packet Tracer ile Akıllı Otel Ağ Tasarımı
 
 Bu proje, modern bir otel işletmesinin ihtiyaç duyduğu karmaşık ağ altyapısını, Cisco Packet Tracer üzerinde uçtan uca simüle eder. Proje; ağ hiyerarşisi, IoT entegrasyonu ve dış dünya bağlantısı (WAN) gibi temel ağ prensiplerini uygulamalı olarak sunmaktadır.
 
-🛠 Teknik Mimari ve Özellikler
+Teknik Mimari ve Özellikler
 1. Ağ Segmentasyonu (VLAN Yapılandırması)
 Ağ performansı ve güvenliğini optimize etmek amacıyla sistem mantıksal katmanlara ayrılmıştır:  
 
