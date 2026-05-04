@@ -43,15 +43,7 @@ WAN Simülasyonu: Otel ağının dış dünya (Ev ağı) ile olan bağlantısı 
 
 Erişim Kontrol Listesi (ACL): Core Switch üzerinde yapılandırılan firewall kuralları ile dış ağdan gelen yetkisiz erişimler (personel ve otopark ağına sızma) engellenmiştir.  
 
-🚀 Sonuç
+Sonuç
 Bu simülasyon; VLAN yönetimi, IP yönlendirme kuralları, servis yapılandırmaları ve donanım kodlamasının (Python/MCU) bir ağ mimarisinde nasıl entegre çalıştığını kanıtlayan bütünleşik bir çalışmadır.  
-
-👥 Hazırlayanlar
-Naz Altınbaş   
-
-Fatma Tanrıverdi   
-
-İlknur Güner   
-
 
 Bu proje 2025-2026 Eğitim Öğretim Yılı Bahar Dönemi "Bilgisayar Ağlarına Giriş" dersi final ödevi olarak hazırlanmıştır.
