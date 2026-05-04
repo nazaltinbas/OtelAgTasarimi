@@ -46,4 +46,4 @@ Erişim Kontrol Listesi (ACL): Core Switch üzerinde yapılandırılan firewall 
 Sonuç
 Bu simülasyon; VLAN yönetimi, IP yönlendirme kuralları, servis yapılandırmaları ve donanım kodlamasının (Python/MCU) bir ağ mimarisinde nasıl entegre çalıştığını kanıtlayan bütünleşik bir çalışmadır.  
 
-Bu proje 2025-2026 Eğitim Öğretim Yılı Bahar Dönemi "Bilgisayar Ağlarına Giriş" dersi final ödevi olarak hazırlanmıştır.
+Bu proje İlknur Güner, Fatma Tanrıverdi ve Naz Altınbaş tarafından 2025-2026 Eğitim Öğretim Yılı Bahar Dönemi "Bilgisayar Ağlarına Giriş" dersi projesi olarak hazırlanmıştır.
